@@ -261,7 +261,7 @@ supported.
     [ -99, "yikes!", [ true, [ "no"], [ ] ], 1 ]
     [ [ "fox", "marshal" ] ] 
 
-Individual array values can later be accesses bd their positions using the *[]*
+Individual array values can later be accessed by their positions using the *[]*
 accessor. The position of the accessed element must be a numeric
 value. Positions start at 0.  It is also possible to use negative index values
 to access array values starting from the end of the array. This is convenient if
