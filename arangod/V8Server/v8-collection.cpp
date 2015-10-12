@@ -2750,7 +2750,7 @@ static void JS_RotateVocbaseCol (const v8::FunctionCallbackInfo<v8::Value>& args
 /// As before, but in case of a conflict, the conflict is ignored and the old
 /// document is overwritten.
 ///
-/// collection.update(document-handle, data)`
+/// `collection.update(document-handle, data)`
 ///
 /// As before. Instead of document a document-handle can be passed as
 /// first argument.
